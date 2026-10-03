@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->

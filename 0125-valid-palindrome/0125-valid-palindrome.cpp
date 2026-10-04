@@ -19,20 +19,17 @@ public:
      {
         if(!isAlphaNum(s[st]))
         {
-            st++; 
-            continue;
+            st++;  continue;
         }
         if(!isAlphaNum(s[end]))
         {
-            end--;
-            continue;
+            end--; continue;
         }
         if(tolower(s[st])!= tolower(s[end]))
         {
             return false;
         }
-        st++;
-        end--;
+        st++; end--;
      }
      return true;
     }

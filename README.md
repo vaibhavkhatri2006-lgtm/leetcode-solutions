@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack

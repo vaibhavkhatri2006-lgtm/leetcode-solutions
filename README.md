@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

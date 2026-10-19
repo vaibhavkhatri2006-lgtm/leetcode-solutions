@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0001-two-sum) |
+| [1748-sum-of-unique-elements](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->

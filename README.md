@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1925-count-square-sum-triples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2544-alternating-digit-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->

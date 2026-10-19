@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers

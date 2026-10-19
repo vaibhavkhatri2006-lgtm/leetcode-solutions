@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0231-power-of-two) |
+| [2652-sum-multiples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |

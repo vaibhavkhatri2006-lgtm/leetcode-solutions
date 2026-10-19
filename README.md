@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2544-alternating-digit-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2578-split-with-minimum-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+| [2578-split-with-minimum-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Quicksort
 |  |
 | ------- |

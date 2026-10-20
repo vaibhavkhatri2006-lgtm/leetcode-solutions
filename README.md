@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2578-split-with-minimum-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Hash Table

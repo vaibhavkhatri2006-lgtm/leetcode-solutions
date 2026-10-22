@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3151-special-array-i](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3452-sum-of-good-numbers](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3701-compute-alternating-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers

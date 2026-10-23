@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

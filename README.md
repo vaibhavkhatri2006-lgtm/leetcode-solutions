@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3151-special-array-i](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3452-sum-of-good-numbers](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3701-compute-alternating-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2578-split-with-minimum-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Quicksort
 |  |

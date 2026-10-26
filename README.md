@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1925-count-square-sum-triples](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2544-alternating-digit-sum](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

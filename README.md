@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/vaibhavkhatri2006-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
